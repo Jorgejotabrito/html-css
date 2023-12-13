@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de idade</title>
+</head>
+<body>
+    <h1>Calculadora de Idade</h1>
+    <p>Informe o ano de nascimento:</p>
+    <input type="number" id="anoNascimento" placeholder="Ano de nascimento" oninput="calcularIdade()">
+    <p>Sua idade é: <span id="idade"></span> anos</p>
+
+    <script>
+        function calcularIdade() {
+            const anoNascimento = document.getElementById("anoNascimento").value;
+            const anoAtual = new Date().getFullYear();
+            const idade = anoAtual - anoNascimento;
+
+            if (!isNaN(idade) && idade >= 0) {
+                document.getElementById("idade").textContent = idade;
+            } else {
+                document.getElementById("idade").textContent = "Ano de nascimento inválido";
+            }
+        }
+    </script>
+</body>
+
+</html>
