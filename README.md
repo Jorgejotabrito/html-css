@@ -1,6 +1,8 @@
 # html-css
  Curso HTML5 e CSS3 do Curso em video.
 
+ Desenvolvido por Jorge Brito
+
  <a href= "https://jorgejotabrito.github.io/html-css/exercicios/exe001/index.html">Executar o exercicio 001</a><br>
   <a href= "https://jorgejotabrito.github.io/html-css/exercicios/exe002/index.html">Executar o exercicio 002</a><br>
    <a href= "https://jorgejotabrito.github.io/html-css/exercicios/exe003/index.html">Executar o exercicio 003</a><br>
