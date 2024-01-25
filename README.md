@@ -11,3 +11,5 @@
       <a href= "https://jorgejotabrito.github.io/html-css/exercicios/exe006/index.html">Exercicio 006</a><br>
        <a href= "https://jorgejotabrito.github.io/html-css/exercicios/exe007/index.html">Exercicio 007</a><br>
         <a href= "https://jorgejotabrito.github.io/html-css/exercicios/exe008/index.html">Exercicio 008</a><br>
+        <a href= "https://jorgejotabrito.github.io/html-css/exercicios/exe009/index.html">Exercicio 009</a><br>
+        <a href= "https://jorgejotabrito.github.io/html-css/exercicios/exe010/index.html">Exercicio 010</a><br>
