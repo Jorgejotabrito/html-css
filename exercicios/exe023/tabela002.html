@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        table {
+            width: 400px;
+            border-collapse: collapse;
+            position: relative;
+
+        }
+        caption {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: cadetblue;
+        }
+        td, th {
+            border: 1px solid black;
+            padding: 10px;
+            
+        }
+        
+        tbody > tr:nth-child(odd) {
+            background-color: burlywood;
+        } 
+        tbody > tr:nth-child(ever) {
+            background-color: turquoise;
+        }
+        thead, tfoot {
+            background-color: gray;
+            color: white;
+        }
+        thead > tr > th {
+            position:sticky;
+            top: 0;
+            background-color: black;
+        }
+        td.num {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <h1>Uso de tabelas grandes</h1>
+
+    <!--Anatomias para tabelas grandes
+    TABLE
+      Caption= cabeçalho menor por exemplo 
+      THEAD= CABEÇA
+      TR TD TH
+      TBODY= CORPO
+      TR TD TH
+      TFOOT= RODAPÉ
+      TR TD TH
+    
+    -->
+    <table>
+        <caption>Unidades Federativas do país</caption>
+        <thead>
+            <tr>
+                <th escope="col">Estado</th>
+                <th escope="col " style="width: 50px;">População</th>
+
+            </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <td>São Paulo</td>
+                <td class="num">49.692.974</td>
+            </tr>
+            <tr>
+                <td>Minas Gerais</td>
+                <td class="num">39.322.678</td>
+            </tr>
+            <tr>
+                <td>Amazonas</td>
+                <td class="num">21.005.023</td>
+            </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">29.594.829</td>
+            </tr>
+            <tr>
+                <td>Alagoas</td>
+                <td class="num">9.594.032</td>
+            </tr>
+            <tr>
+                <td>Pernambuco</td>
+                <td class="num">19.504.800</td>
+            </tr>
+            <tr>
+                <td>Santa Catarina</td>
+                <td class="num">6.234.119</td>
+            </tr>
+            <tr>
+                <td>Espirito Santo</td>
+                <td class="num">15.729.124</td>
+            </tr>
+            <tr>
+                <td>Bahia</td>
+                <td class="num">17.628.281</td>
+            </tr>
+            <tr>
+                <td>Piauí</td>
+                <td class="num">17.926.826</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th scope="row">Total de habitantes</th>
+                
+                    <td class="num"><strong>226.232.686</strong></td>
+                
+            </tr>
+
+        </tfoot>
+    </table>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus doloremque voluptatibus rem nam, quos nemo soluta asperiores pariatur nostrum minus suscipit voluptatum necessitatibus incidunt dignissimos atque distinctio aperiam, neque nihil. Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis officiis quas vel reprehenderit, non magni maxime consequuntur aut rerum consequatur possimus optio illum iste voluptatum tempore, necessitatibus natus! Nemo, adipisci. Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nobis esse earum, aperiam dolorum, modi obcaecati deleniti, natus culpa fuga similique beatae veritatis enim a dignissimos exercitationem! Ipsa, expedita voluptatum! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam accusantium veniam dignissimos doloribus harum, aut, dolor a sit saepe voluptate, at eaque. Ab magnam placeat, pariatur cupiditate quo facilis ex? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore maiores fugiat fuga eaque animi officiis consectetur officia reprehenderit dolorem iusto molestiae ducimus eligendi libero, id porro sit, harum, fugit quis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque perspiciatis dolorem explicabo, quos provident id laboriosam excepturi delectus est exercitationem. Dolorum nesciunt molestiae placeat quidem, veniam commodi error necessitatibus quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore dolorum fuga error autem veritatis, facilis totam expedita voluptatem consectetur doloribus aliquam accusantium, rerum dicta, consequatur explicabo numquam. Labore, minima doloremque? Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis necessitatibus laborum suscipit amet, rem numquam accusantium obcaecati odio ex vitae facere quo earum tempore rerum at blanditiis modi ipsam optio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi necessitatibus soluta ex enim voluptates, accusamus earum vel iusto delectus, explicabo ipsa eveniet nam. Ad fugit commodi ut minima, aut quo. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab sunt esse distinctio quos! At, cumque voluptate. Enim animi tempore eaque quo neque libero ea assumenda, soluta, ut sapiente vel cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, sequi fuga, placeat eligendi aperiam ut similique animi cupiditate fugiat accusamus molestias numquam? Hic vero autem rerum, esse fuga non assumenda!</p>
+</body>
+</html>
