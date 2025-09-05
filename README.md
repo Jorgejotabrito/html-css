@@ -9,7 +9,7 @@ Estou desenvolvendo um projeto de sites com base em html e css
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex006/index.html">Executar o exercicio 006<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex007/index.html">Executar o exercicio 007<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex008/index.html">Executar o exercicio 008<p>
-<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex008b/index.html">Executar o exercicio 008b<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex008B/index.html">Executar o exercicio 008B<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex009/index.html">Executar o exercicio 009<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex010/index.html">Executar o exercicio 010<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex011/index.html">Executar o exercicio 011<p>
