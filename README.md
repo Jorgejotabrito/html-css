@@ -51,3 +51,13 @@ Estou desenvolvendo um projeto de sites com base em html e css
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex024e/index.html">Executar o exercicio 024e<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex024f/index.html">Executar o exercicio 024f<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025/index.html">Executar o exercicio 025<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025b/index.html">Executar o exercicio 025b<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025c/index.html">Executar o exercicio 025c<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025d/index.html">Executar o exercicio 025d<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025e/index.html">Executar o exercicio 025e<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025f/index.html">Executar o exercicio 025f<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025g/index.html">Executar o exercicio 025g<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025h/index.html">Executar o exercicio 025h<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025i/index.html">Executar o exercicio 025i<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025j/index.html">Executar o exercicio 025j<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025l/index.html">Executar o exercicio 025l<p>
