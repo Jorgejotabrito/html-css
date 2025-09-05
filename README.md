@@ -45,4 +45,9 @@ Estou desenvolvendo um projeto de sites com base em html e css
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe023e/index.html">Executar o exercicio 023e<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe023f/index.html">Executar o exercicio 023f<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex024/index.html">Executar o exercicio 024<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex024b/index.html">Executar o exercicio 024b<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex024c/index.html">Executar o exercicio 024c<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex024d/index.html">Executar o exercicio 024d<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex024e/index.html">Executar o exercicio 024e<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex024f/index.html">Executar o exercicio 024f<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025/index.html">Executar o exercicio 025<p>
