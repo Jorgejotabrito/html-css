@@ -26,6 +26,8 @@ Estou desenvolvendo um projeto de sites com base em html e css
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe018b/index.html">Executar o exercicio 018b<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe019/index.html">Executar o exercicio 019<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe020/index.html">Executar o exercicio 020<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe020b/index.html">Executar o exercicio 020b<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe020c/index.html">Executar o exercicio 020c<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe021/index.html">Executar o exercicio 021<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe022/index.html">Executar o exercicio 021<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe023/index.html">Executar o exercicio 023<p>
