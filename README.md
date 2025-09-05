@@ -32,6 +32,12 @@ Estou desenvolvendo um projeto de sites com base em html e css
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe021b/index.html">Executar o exercicio 021b<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe021c/index.html">Executar o exercicio 021c<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe022/index.html">Executar o exercicio 022<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe022b/index.html">Executar o exercicio 022b<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe022c/index.html">Executar o exercicio 022c<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe022d/index.html">Executar o exercicio 022d<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe022e/index.html">Executar o exercicio 022e<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe022f/index.html">Executar o exercicio 022f<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe022g/index.html">Executar o exercicio 022g<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe023/index.html">Executar o exercicio 023<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex024/index.html">Executar o exercicio 024<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe0025/index.html">Executar o exercicio 025<p>
