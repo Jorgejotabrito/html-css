@@ -64,7 +64,7 @@ Estou desenvolvendo um projeto de sites com base em html e css
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe026\mq001/index.html">Executar o exercicio 0026<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe026\mq002/index.html">Executar o exercicio 0026b<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extras/index.html">Executar o exercicio páginas extras<p>
-<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extras2/index.html">Executar o exercicio páginas extras 2<p>
-<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extras3/index.html">Executar o exercicio páginas extras 3<p>
-<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extras4/index.html">Executar o exercicio páginas extras 4<p>
-<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extras5/index.html">Executar o exercicio páginas extras 5<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extras 2/index.html">Executar o exercicio páginas extras 2<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extras 3/index.html">Executar o exercicio páginas extras 3<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extras 4/index.html">Executar o exercicio páginas extras 4<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extras 5/index.html">Executar o exercicio páginas extras 5<p>
