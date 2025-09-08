@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Duas Colunas Responsivas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    .container {
+      display: flex;         
+      gap: 20px;             
+      flex-wrap: wrap;       /* Permite quebrar linha em telas pequenas */
+    }
+
+    .coluna {
+      flex: 1 1 300px;       /* Ocupa espaço igual, mínimo de 300px */
+      text-align: justify;
+      background: #f4f4f4;
+      padding: 15px;
+      border-radius: 10px;
+    }
+
+    @media (max-width: 700px) {
+      .container {
+        flex-direction: column; /* Coloca uma embaixo da outra */
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Exemplo de Texto em Duas Colunas Responsivas</h1>
+
+  <div class="container">
+    <div class="coluna">
+      <p>
+        Esta é a primeira coluna de texto. Em telas grandes, ela aparece ao lado da outra.
+        Mas em telas pequenas (como celular), ela ficará acima da segunda coluna.
+      </p>
+    </div>
+
+    <div class="coluna">
+      <p>
+        Esta é a segunda coluna de texto. Graças ao CSS responsivo, o layout se adapta automaticamente
+        ao tamanho da tela, sem precisar de ajustes manuais.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>
