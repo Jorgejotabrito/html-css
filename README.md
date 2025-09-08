@@ -68,3 +68,4 @@ Estou desenvolvendo um projeto de sites com base em html e css
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extrasc/index.html">Executar o exercicio páginas extrasc<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extrasd/index.html">Executar o exercicio páginas extrasd<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/páginas extrase/index.html">Executar o exercicio páginas extrase<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/novo código/index.html">Executar o exercicio novo código<p>
