@@ -62,3 +62,4 @@ Estou desenvolvendo um projeto de sites com base em html e css
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex0025j/index.html">Executar o exercicio 025j<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/ex0025l/index.html">Executar o exercicio 025l<p>
 <p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe026\mq001/index.html">Executar o exercicio 0026<p>
+<p><a href="https://jorgejotabrito.github.io/html-css/exercicios/exe026\mq002/index.html">Executar o exercicio 0026b<p>
